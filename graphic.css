@@ -1,0 +1,39 @@
+   body{
+            background-image: url(ubax.jpeg);
+            background-repeat: no-repeat;
+            background-repeat: repeat-x;
+            background-repeat: repeat-y;
+            background-repeat: no-repeat;
+            background-size: cover;
+            color: white;
+        }
+        footer{
+            background-color: rgb(67, 82, 77);
+            color: white;
+            text-align: center;
+        }
+        .maqayad{
+            background-color: rgb(61, 113, 113);
+            color: #000;
+            text-align: center;
+        }
+        .home{
+            background-color: rgb(78, 66, 89);
+            color: aliceblue;
+            text-align: center;
+        }
+        #h2{
+            background-color: rgb(187, 0, 255);
+            color: white;
+            text-align: center;
+        }
+        #contact{
+            background-color: burlywood;
+            color: #000;
+            text-align: center;
+        }
+        .about{
+            background-color: aquamarine;
+            color: #000;
+            text-align: center;
+        }
